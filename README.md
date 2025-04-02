@@ -79,9 +79,10 @@ This system simulates the process of securing access to restricted zones such as
 
 1. **Clone the repository**
 
-```bash
+bash
 git clone https://github.com/Rishikiran98/DynamicHumanAuth.git
 cd DynamicHumanAuth
+
 Install dependencies
 
 bash
