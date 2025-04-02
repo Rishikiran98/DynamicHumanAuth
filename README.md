@@ -177,11 +177,3 @@ This project is licensed under the MIT License.
 Feel free to use, modify, and share under the terms of this license.
 
 “Security is not just a feature—it's a necessity. With DynamicHumanAuth, we bring intelligent surveillance closer to the real world.”
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you want to include visuals, add an academic citation section, or tailor this fu
